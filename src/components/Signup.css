@@ -1,0 +1,30 @@
+.TxtAlign{
+    margin-top: 1%;
+    text-align: center;
+}
+
+.restex{
+    font-size: 4vw;
+
+}
+
+
+.SBox{
+    font-family: sans-serif;
+    width: 35%;
+    height: 107%;
+    background: lightsteelblue;
+    margin-top: 32%;
+    /* top : 90%; */
+    left: 50%;
+    position:relative;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 2% 2%;
+}
+
+.AllMyImg{
+    height: 5% ;
+    width: 5%;
+    
+}

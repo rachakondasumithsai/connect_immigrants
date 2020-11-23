@@ -1,0 +1,27 @@
+.header-image {
+  width: 100%;
+  margin-top: -2em;
+  margin-bottom: 2em;
+}
+.person-wrapper {
+  margin-bottom: 2em;
+}
+.profile-pic {
+  width: 70%;
+}
+h1 {
+  text-align: center;
+  width: 100%;
+  color: black;
+}
+h3 {
+  color: black;
+}
+.carousel-caption {
+  top: 0;
+  bottom: auto;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+}
